@@ -1,4 +1,4 @@
-﻿# 👋 Hi, I'm Akhil Madhu
+﻿# Hi, I'm Akhil Madhu
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&width=700&lines=Software+Developer;AI-Driven+Product+Development+for+Web+%26+Mobile+Platforms;Building+Generative+%26+Agentic+AI+Intelligent+Solutions;AI%2FML+%26+UI%2FUX+Enthusiast" alt="Typing SVG" />
@@ -22,7 +22,7 @@ I build software with a product mindset and a growing obsession with AI-powered 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a Software Developer with hands-on experience in enterprise web application development and a growing focus on AI-driven product engineering.
 
@@ -34,29 +34,29 @@ Product Thinking → UX Design → Frontend → APIs → Backend → Data → AI
 
 Rather than treating AI as a separate layer, I’m interested in how software engineering, product design, and AI come together to build meaningful digital experiences.
 
-- 💼 Currently working at HCLTech
-- 🧠 Exploring Generative AI, Agentic AI, AI agents, RAG, memory, evaluation, and observability
-- ☁️ Learning cloud-oriented AI architecture on AWS
-- 🎓 MCA in Artificial Intelligence from Amrita Vishwa Vidyapeetham - Amrita AHEAD Online
-- 🎨 Interested in engineering, product thinking, UI/UX, and software craftsmanship
-- 🎤 Outside code, I’m passionate about Music and Singing
+- Currently working at HCLTech
+- Exploring Generative AI, Agentic AI, AI agents, RAG, memory, evaluation, and observability
+- Learning cloud-oriented AI architecture on AWS
+- MCA in Artificial Intelligence from Amrita Vishwa Vidyapeetham - Amrita AHEAD Online
+- Interested in engineering, product thinking, UI/UX, and software craftsmanship
+- Outside code, I’m passionate about Music and Singing
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🧠 Agentic AI: agents, tool use, orchestration, memory, and adaptive workflows
-- 🤖 Generative AI: practical LLM-powered application development
-- 📚 RAG & Semantic Retrieval: embeddings, information retrieval, and contextual answers
-- 🔍 AI Evaluation & Observability: tracing, monitoring, and understanding behavior
-- 🌐 Full-Stack Engineering: shipping complete products beyond the interface
-- ☁️ Cloud + AI: understanding production-ready architecture on AWS
-- 🧱 System Design: connecting UI, services, data, infrastructure, and AI
-- ⚡ AI-assisted engineering: using modern AI tools while strengthening core fundamentals
+- Agentic AI: agents, tool use, orchestration, memory, and adaptive workflows
+- Generative AI: practical LLM-powered application development
+- RAG & Semantic Retrieval: embeddings, information retrieval, and contextual answers
+- AI Evaluation & Observability: tracing, monitoring, and understanding behavior
+- Full-Stack Engineering: shipping complete products beyond the interface
+- Cloud + AI: understanding production-ready architecture on AWS
+- System Design: connecting UI, services, data, infrastructure, and AI
+- AI-assisted engineering: using modern AI tools while strengthening core fundamentals
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Web & Mobile Application Development
 Strong hands-on experience in building product-driven web applications, with ongoing growth in mobile application development and end-to-end digital product workflows.
@@ -109,20 +109,20 @@ Actively learning and building hands-on understanding in AI engineering, LLM-dri
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🤖 ARIA — Adaptive Response Intelligence Assistant
+### ARIA — Adaptive Response Intelligence Assistant
 AI-powered customer support and agent-assist platform that explores how AI can go beyond chatbots by combining retrieval, feedback, analytics, and adaptive behavior.
 
 Key ideas:
-- 💬 Conversational customer interface
-- 🧑‍💼 Agent assist workspace
-- 📚 Knowledge-base management
-- 🔎 Knowledge-backed responses
-- 👍 Explicit feedback collection
-- 📊 Response-quality analytics
-- 🧠 Adaptive scoring and learning loops
-- 🔌 APIs for conversations, feedback, knowledge, and analytics
+- Conversational customer interface
+- Agent assist workspace
+- Knowledge-base management
+- Knowledge-backed responses
+- Explicit feedback collection
+- Response-quality analytics
+- Adaptive scoring and learning loops
+- APIs for conversations, feedback, knowledge, and analytics
 
 Architecture direction:
 
@@ -130,17 +130,17 @@ Customer → Chat Interface → AI Processing → Knowledge / Memory Retrieval �
 
 Tech direction: React • TypeScript • Node.js • Express • SQLite • AI Service Layer • LLM Integration
 
-### 🧠 AI Platform for Incident Management
+### AI Platform for Incident Management
 An exploration of an AI-native incident management platform for enterprise-style workflows, bringing together traditional application engineering and AI-first capabilities.
 
 This project helped me understand how AI fits into larger, more complex operational systems — not just as standalone demos, but as part of real workflows involving APIs, services, knowledge, and observability.
 
-### 🎙️ SmartGrocery Voice
+### SmartGrocery Voice
 A speech-to-text and grocery item recognition project focused on multi-accent consumer environments. It explored audio preprocessing, dataset handling, speech recognition concepts, and practical model evaluation in real-world conditions.
 
 ---
 
-## 🧭 Engineering Philosophy
+## Engineering Philosophy
 
 I don’t want to collect technologies just to make a skills section longer.
 
@@ -150,17 +150,17 @@ UI → Application Logic → APIs → Backend Services → Data → AI → Cloud
 
 For me, good software should be:
 
-- 🎯 Useful — solve a real problem
-- 🧩 Understandable — architecture should make sense
-- 🔧 Maintainable — it should be easy to evolve
-- 👥 User-centered — technology should serve people
-- 🔍 Observable — behavior and failures should be traceable
-- 🔄 Adaptable — systems should change with requirements
-- 🛡️ Responsible — AI needs boundaries, evaluation, and human judgment
+- Useful — solve a real problem
+- Understandable — architecture should make sense
+- Maintainable — it should be easy to evolve
+- User-centered — technology should serve people
+- Observable — behavior and failures should be traceable
+- Adaptable — systems should change with requirements
+- Responsible — AI needs boundaries, evaluation, and human judgment
 
 ---
 
-## 🌱 Growth Path
+## Growth Path
 
 Frontend Engineering
 ↓
@@ -180,7 +180,7 @@ Strong AI products still need good interfaces, APIs, databases, testing, securit
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master of Computer Applications — Artificial Intelligence**  
 Amrita Vishwa Vidyapeetham - Amrita AHEAD Online
@@ -202,7 +202,7 @@ Academic exposure includes:
 
 ---
 
-## 💼 Professional Journey
+## Professional Journey
 
 ### 🟦 HCLTech
 **Senior Support Engineer**
@@ -224,20 +224,20 @@ This experience gave me a solid foundation in enterprise software development, p
 
 ---
 
-## 🏆 What I Value
+## What I Value
 
-- 🧠 Understanding over memorization
-- 🛠️ Building over endlessly watching tutorials
-- 🔍 Debugging as part of learning
-- 🤝 Collaboration over ego
-- 🎯 Solving the problem over chasing buzzwords
-- 🎨 Good UX alongside solid engineering
-- 🤖 AI as a capability and engineering tool — not a substitute for fundamentals
-- 📚 Continuous learning without pretending to know everything
+- Understanding over memorization
+- Building over endlessly watching tutorials
+- Debugging as part of learning
+- Collaboration over ego
+- Solving the problem over chasing buzzwords
+- Good UX alongside solid engineering
+- AI as a capability and engineering tool — not a substitute for fundamentals
+- Continuous learning without pretending to know everything
 
 ---
 
-## 🎯 Goals
+## Goals
 
 ### Near Term
 - Strengthen full-stack engineering fundamentals
@@ -255,7 +255,7 @@ Software Engineering + AI + Cloud + Architecture + Product Development
 
 ---
 
-## 🎵 Beyond Code
+## Beyond Code
 
 Technology is one side of who I am. Music is the other.
 
@@ -267,29 +267,29 @@ Whether it’s a feature, an AI experiment, or a song, I enjoy turning an idea i
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 I’m always interested in connecting with developers, AI engineers, builders, and creators.
 
 I’d love to talk about:
 
-- 💻 Web & Full-Stack Development
-- 🤖 Generative AI
-- 🧠 Agentic AI & AI Agents
-- ☁️ Cloud + AI Architecture
-- 🎨 UI/UX & Product Engineering
-- 🔍 AI Evaluation & Observability
-- 🛠️ AI-assisted Software Engineering
-- 🎵 Music & Creativity
+- Web & Full-Stack Development
+- Generative AI
+- Agentic AI & AI Agents
+- Cloud + AI Architecture
+- UI/UX & Product Engineering
+- AI Evaluation & Observability
+- AI-assisted Software Engineering
+- Music & Creativity
 
 ### Reach me here
-- 💼 LinkedIn: [akhil-madhu-53aa74152](https://www.linkedin.com/in/akhil-madhu-53aa74152)
-- 🐙 GitHub: [akhilmadhuklkl](https://github.com/akhilmadhuklkl)
-- 📸 Instagram: [@akhil97.dev](https://instagram.com/akhil97.dev)
-- 📧 Email: [akhilm939@gmail.com](mailto:akhilm939@gmail.com)
+- LinkedIn: [akhil-madhu-53aa74152](https://www.linkedin.com/in/akhil-madhu-53aa74152)
+- GitHub: [akhilmadhuklkl](https://github.com/akhilmadhuklkl)
+- Instagram: [@akhil97.dev](https://instagram.com/akhil97.dev)
+- Email: [akhilm939@gmail.com](mailto:akhilm939@gmail.com)
 
 ---
 
 <p align="center">
-  <strong>Thanks for visiting! Feel free to explore my repositories and follow along as I build, learn, and experiment.</strong> 🚀
+  <strong>Thanks for visiting! Feel free to explore my repositories and follow along as I build, learn, and experiment.</strong> 
 </p>
